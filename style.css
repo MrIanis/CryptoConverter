@@ -69,7 +69,7 @@ select {
     border: solid #ffffff 4px;
     text-decoration: none;
 
-    
+
 }
 
 div.form-group {
@@ -97,4 +97,7 @@ div.form-group {
 
 div.card-body {
     font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+
 }
